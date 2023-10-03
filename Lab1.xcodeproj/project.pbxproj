@@ -14,6 +14,8 @@
 		3FD5BDDD2ACC5DC10080707B /* Lab1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5BDDC2ACC5DC10080707B /* Lab1Tests.swift */; };
 		3FD5BDE72ACC5DC10080707B /* Lab1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5BDE62ACC5DC10080707B /* Lab1UITests.swift */; };
 		3FD5BDE92ACC5DC10080707B /* Lab1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5BDE82ACC5DC10080707B /* Lab1UITestsLaunchTests.swift */; };
+		3FD5BDF82ACC61230080707B /* MyTField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5BDF72ACC61230080707B /* MyTField.swift */; };
+		3FD5BDFA2ACC62C40080707B /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5BDF92ACC62C40080707B /* Functions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		3FD5BDE22ACC5DC10080707B /* Lab1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FD5BDE62ACC5DC10080707B /* Lab1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab1UITests.swift; sourceTree = "<group>"; };
 		3FD5BDE82ACC5DC10080707B /* Lab1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3FD5BDF72ACC61230080707B /* MyTField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTField.swift; sourceTree = "<group>"; };
+		3FD5BDF92ACC62C40080707B /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +100,9 @@
 			children = (
 				3FD5BDCB2ACC5DC00080707B /* Lab1App.swift */,
 				3FD5BDCD2ACC5DC00080707B /* ContentView.swift */,
+				3FD5BDF92ACC62C40080707B /* Functions.swift */,
 				3FD5BDCF2ACC5DC10080707B /* Assets.xcassets */,
+				3FD5BDF72ACC61230080707B /* MyTField.swift */,
 				3FD5BDD12ACC5DC10080707B /* Preview Content */,
 			);
 			path = Lab1;
@@ -259,6 +265,8 @@
 			files = (
 				3FD5BDCE2ACC5DC00080707B /* ContentView.swift in Sources */,
 				3FD5BDCC2ACC5DC00080707B /* Lab1App.swift in Sources */,
+				3FD5BDF82ACC61230080707B /* MyTField.swift in Sources */,
+				3FD5BDFA2ACC62C40080707B /* Functions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
